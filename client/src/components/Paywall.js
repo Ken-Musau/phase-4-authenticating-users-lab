@@ -3,8 +3,8 @@ function Paywall() {
     <article>
       <h2>Maximum articles viewed</h2>
       <p>
-        You've reached your limit for free articles! Create an account to see
-        more great content.
+        You've reached your limit for free articles! Pay 5$ to see more great
+        content.
       </p>
     </article>
   );
